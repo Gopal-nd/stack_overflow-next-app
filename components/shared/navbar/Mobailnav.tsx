@@ -58,7 +58,7 @@ const Mobailnav = () => {
         alt='Menu'
         width={36}
         height={36}
-        className=' invert-colors'
+        className=' invert-colors sm:hidden'
         /> 
     </SheetTrigger>
     <SheetContent side={"left"} className='background-light900_dark200 border-none'>
